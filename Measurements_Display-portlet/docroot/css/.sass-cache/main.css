@@ -1,0 +1,39 @@
+.ui-widget-shadow.ui-corner-all {
+  width: 420px;
+  height: 240px;
+  margin: 10px;
+  opacity: 1; }
+
+.ui-widget.ui-widget-content.ui-state-default.ui-corner-all {
+  width: 400px;
+  height: 220px;
+  padding: 10px; }
+
+#feedID {
+  font-size: 120%;
+  margin: 0;
+  font-weight: bold; }
+
+#sensorID {
+  font-size: 100%;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 7px; }
+
+#measurementDate {
+  margin: 7px; }
+
+.ui-widget-shadow.ui-state-active.ui-corner-all {
+  width: 320px;
+  height: 60px;
+  margin: 10px;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 140%;
+  opacity: 1;
+  color: #AFAFAF; }
+
+#measurement {
+  font-size: 120%;
+  margin: 12px; }
+
