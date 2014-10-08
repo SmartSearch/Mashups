@@ -1,0 +1,17 @@
+.containerDiv {
+	clear: both;
+	display:block;
+}
+
+.imageContainerDiv {
+	float: left;
+	margin-right: 10px;
+	width: 80px;
+	height: 80px;
+}
+
+.userImg {
+	width: 64px;
+	height: 64px;
+	display:block;
+}

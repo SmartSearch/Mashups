@@ -1,0 +1,48 @@
+#nonAVs
+	{
+		max-height:850px;
+		overflow-x:scroll;
+		align: center;
+	}
+
+.ui-widget-shadow.ui-corner-all
+	{
+		width: 180px;
+		height: 70px;
+		margin: 6px;
+		opacity: 1;
+		position:relative;
+	}
+	
+.ui-widget.ui-widget-content.ui-state-default.ui-corner-all
+	{
+		width: 90%;
+		height: 90%;
+		padding: 7px;
+		position: relative;
+	}
+	
+.sensorID
+	{
+		font-size:110%;
+		font-weight:bold;
+		margin: 0;
+		margin-top: 2px;
+	}
+	
+.ui-widget-shadow.ui-state-active.ui-corner-all
+	{
+		width: 85%;
+		height: 50%;
+		margin: 5px;
+		padding: 3px;
+		font-weight:bold;
+		font-size:120%;
+		opacity: 1;
+		color:#AFAFAF;
+	}
+	
+.measurement
+	{
+		margin-top: 4px;
+	}
