@@ -1,4 +1,4 @@
-+Mashups
-+=======
-+
-+Smart Core: Mashups components
+Mashups
+=======
+
+Smart Core: Mashups components
