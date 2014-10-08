@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+
+<project name="Layout_1_3_1-layouttpl" basedir="." default="deploy">
+	<property name="plugin.version" value="1" />
+
+	<import file="C:\Java libs\liferay-plugins-sdk-6.1.1\layouttpl/build-common-layouttpl.xml" />
+</project>
